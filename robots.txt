@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eleywornov.github.io/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/app/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/assets/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/css/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/data/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/includes/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/item/sitemap.eleywornov.gz
+Sitemap: https://eleywornov.github.io/src/sitemap.eleywornov.gz
